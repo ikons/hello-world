@@ -6,8 +6,8 @@
 Κάνουμε και δεύτερη αλλαγή
 Είμαι ο χρήστης externalreviewer και προσθέτω την γραμμή στο readme.
 added another line
-<<<<<<< HEAD
+
 who wins at the end?
-=======
+
 last change
->>>>>>> refs/remotes/origin/master
+
