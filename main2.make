@@ -12,3 +12,7 @@ palindrome.o: palindrome.c palindrome.h reverse.h
 
 removevowel.o: removevowel.c removevowel.h
 	cc -c removevowel.c
+
+.PHONY: clean
+clean:
+	rm -f main2 *.o
