@@ -5,6 +5,7 @@
 #include "palindrome.h"
 #include "removevowel.h"
 
+/* Αλλαγή από το GitHub */
 int main(void)
 {
     wchar_t str[] = L"Θα βγάλω όλα τα φωνήεντα από αυτή τη συμβολοσειρά.";
