@@ -1,4 +1,4 @@
-/* main2.c */
+/* main2.c: παλίνδρομα και αφαίρεση φωνηέντων */
 #include <stdio.h>
 #include <wchar.h>
 #include <locale.h>
